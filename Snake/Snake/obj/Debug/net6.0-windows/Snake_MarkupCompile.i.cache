@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\git\desktop_version_wdd\programming_projects\cse_310\individual_work\snake_repository\Snake\Snake\obj\Debug\net6.0-windows\
+C:\git\desktop_version_wdd\programming_projects\cse_310\individual_work\snake_repo\SnakeGame\Snake\Snake\obj\Debug\net6.0-windows\
 Snake
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\git\desktop_version_wdd\programming_projects\cse_310\individual_work\snake_repository\Snake\Snake\App.xaml
+C:\git\desktop_version_wdd\programming_projects\cse_310\individual_work\snake_repo\SnakeGame\Snake\Snake\App.xaml
 11407045341
 
 10465159864
 194631368572
 MainWindow.xaml;
 
-False
+True
 

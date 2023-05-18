@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mwZ7TFNX3F6vpFZlNPJ68vG8A1tfixXE7FnWdQoqTfAa0R9vVoOxWfhe60qApROniV9PxlzZLQocJut9Ci19SQ==",
+  "dgSpecHash": "hEA6x/kCDgNSkqnbUlxdqgwmpwyq/gaoDNlrUWG4qLXs67X8fb7JSAlwtG60B6MBWsaGmzcJcvN7XgMv1678sw==",
   "success": true,
-  "projectFilePath": "C:\\git\\desktop_version_wdd\\programming_projects\\cse_310\\individual_work\\snake_repository\\Snake\\Snake\\Snake.csproj",
+  "projectFilePath": "C:\\git\\desktop_version_wdd\\programming_projects\\cse_310\\individual_work\\snake_repo\\SnakeGame\\Snake\\Snake\\Snake.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\steve\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512",
     "C:\\Users\\steve\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
